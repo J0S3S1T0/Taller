@@ -3,7 +3,7 @@
 > Una aplicación full-stack moderna con autenticación segura, gestión de autos, accesorios y carritos de compra.  
 > Backend: FastAPI + MySQL | Frontend: Next.js 15 + TypeScript
 
-![Viaggio Velogge](https://via.placeholder.com/800x400?text=Viaggio+Velogge+Logo) <!-- Puedes reemplazar esto por una imagen real más adelante -->
+![Viaggio Velogge](https://via.placeholder.com/800x400?text=Viaggio+Velogge+Logo) <!-- Puedes reemplazar esto por una imagen real más  -->
 
 ---
 
